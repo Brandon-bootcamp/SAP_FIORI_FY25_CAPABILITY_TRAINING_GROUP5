@@ -1,5 +1,5 @@
 dev_brandon : "Greetings, My name is Brandon Kyle and I am the leader of the group".
-dev_anje : "Greetings, My name is Marc Anjelou and I am a member of the group".
-dev_regina : "Greetings, My name is Regina Jane and I am a member of the group".
+dev_anje    : "Greetings, My name is Marc Anjelou and I am a member of the group".
+dev_regina  : "Greetings, My name is Regina Jane and I am a member of the group".
 dev_stanlee : "Greetings, My name is Stanlee and I am a member of the group".
 dev_arjake : "Greetings, My name is Arjake supporting member of group 5"
